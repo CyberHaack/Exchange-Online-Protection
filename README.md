@@ -112,9 +112,13 @@ Also, the ‘Not Delivered’ section of the report reminds us of the definition
 
 ![IMG-20241110-WA0026](https://github.com/user-attachments/assets/8f1114fd-0a7e-47e3-835e-4325b9e1fafe)
 
+We have been able to successfully prevent the user from recieving executable files, whcih are often used by threat actors to carry out sinister activities, if an unsuspecing user click on the file. 
+
+
 ### Reference
 
 <a href="https://learn.microsoft.com/en-us/exchange/security-and-compliance/mail-flow-rules/mail-flow-rules"> Mail flow rules (transport rules) in Exchange Online | Microsoft Learn </a>
 
 
+## Thank you for coming all this way. Kindly check out other repositories to see more of my projects. 
 
