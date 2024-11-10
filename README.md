@@ -29,3 +29,14 @@ Unlike email forwarding, which occurs after a message is delivered to the mailbo
 # Creating a Transport Rule in Microsoft 365 Admin Center
 
 1. sign in to your office.com account using your credentials, open the Admin Center by the lower left hand corner — Follow the red highlight
+
+   ![IMG-20241110-WA0008](https://github.com/user-attachments/assets/eec877fc-9d5d-432d-872a-d3e47f259567)
+
+2. Click on Show All > Exchange
+
+   ![IMG-20241110-WA0009](https://github.com/user-attachments/assets/07588dbf-509e-4c3d-a504-1b541930fb1c)
+
+   ![IMG-20241110-WA0010](https://github.com/user-attachments/assets/37840d66-b142-47b6-9892-df5fac139db0)
+
+
+
