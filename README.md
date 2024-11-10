@@ -27,5 +27,5 @@ Mail Flow rules, also known as Transport Rules are rules that take action on mes
 Unlike email forwarding, which occurs after a message is delivered to the mailbox, mail flow rules intercept and process emails before they reach the recipient’s inbox thereby eliminating the likelihood that the recipient will erroneously or naively open it.
 
 # Creating a Transport Rule in Microsoft 365 Admin Center
-sign in to your office.com account using your credentials, open the Admin Center by the lower left hand corner — Follow the red highlight
 
+1. sign in to your office.com account using your credentials, open the Admin Center by the lower left hand corner — Follow the red highlight
